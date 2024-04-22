@@ -22,3 +22,5 @@ Otherwise, follow these steps (they assume you have a user account set up)\
 
 (Optional)
 8. Instead of running, you can always enter `go build` within the root folder to compile, and then enter `./ICS311FinalProject` to run the compiled file.
+
+Note: Some influence was taken from [Let's Go](https://lets-go.alexedwards.net/) by Alex Edwards on how to set up a Go project with MySQL. 
